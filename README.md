@@ -10,7 +10,7 @@ Proper use would include storing the users in a database of some sort.
 
 To get started, here is an outline of a general set up.
 
-Create Project folder 
+#Create Project folder 
 
 #Init project
 npm init -y (setting up environment, 'y' gives all default values for ) #Init package . json
